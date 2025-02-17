@@ -1,17 +1,14 @@
-> :white_check_mark: *Jeśli będziesz mieć problem z rozwiązaniem tego zadania, poproś o pomoc na odpowiednim kanale na Slacku, tj. `s5e05-php-sessions-and-authentication` (dotyczy [mentee](https://devmentor.pl/mentoring-javascript/)) lub na ogólnodostępnej i bezpłatnej [społeczności na Discordzie](https://devmentor.pl/discord). Pamiętaj, aby treść Twojego wpisu spełniała [odpowiednie kryteria](https://devmentor.pl/jak-prosic-o-pomoc/).*
+> :white_check_mark: *Jeśli będziesz mieć problem z rozwiązaniem tego zadania, poproś o pomoc na odpowiednim kanale na Slacku, tj. `s5e05-php-refactoring` (dotyczy [mentee](https://devmentor.pl/mentoring-javascript/)) lub na ogólnodostępnej i bezpłatnej [społeczności na Discordzie](https://devmentor.pl/discord). Pamiętaj, aby treść Twojego wpisu spełniała [odpowiednie kryteria](https://devmentor.pl/jak-prosic-o-pomoc/).*
 
 &nbsp;
 
-# `#02` PHP: Sessions and Authentication
+# `#02` PHP: Refactoring Techniques
 
-Utwórz tabelę w bazie danych, która będzie przechowywać dane o użytkownikach.
+Napisz klasę `Noticer`, która będzie prezentowała komunikaty o różnym typie tj. `success`, `warning`, `error`.
 
-Utwórz podstronę np. `index.php`, na której będzie można zarejestrować użytkownika - wystarczy podać imie, nazwisko, email oraz hasło - pamiętaj o walidacji.
+Klasa ta może przechowywać informacje o błędach w sesji, z opcją czyszczenia komunikatu po jego odczytaniu.
 
-Hasło zapisz jako skrót - wykorzystaj [password_hash()](https://www.php.net/manual/en/function.password-hash.php).
-
-
-PS. Zrzut tabelu zapisz w pliku `db.sql`.
+Implementacja nie powinna łamać [zasady pojedynczje odpowiedzialności tj. SRP](https://pl.wikipedia.org/wiki/Zasada_jednej_odpowiedzialno%C5%9Bci).
 
 
 &nbsp;

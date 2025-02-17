@@ -2,9 +2,9 @@
 
 &nbsp;
 
-# PHP: Sessions and Authentication (37-41)
+# PHP: Refactoring Techniques (42-46)
 
-Prezentowane zadania są przygotowane na podstawie rozdziału ["Sessions and Authentication" (37-41)](https://laracasts.com/series/php-for-beginners-2023-edition/episodes/37) dla kursu "[PHP for Beginners](https://laracasts.com/series/php-for-beginners-2023-edition)". Użyj [linku polecającego](https://laracasts.com/referral/bogolubow), aby się zarejestrować i docenić moją pracę.
+Prezentowane zadania są przygotowane na podstawie rozdziału "[Refactoring Techniques (42-46)](https://laracasts.com/series/php-for-beginners-2023-edition/episodes/42)" dla kursu "[PHP for Beginners](https://laracasts.com/series/php-for-beginners-2023-edition)". Użyj [linku polecającego](https://laracasts.com/referral/bogolubow), aby się zarejestrować i docenić moją pracę.
 
 
 
@@ -23,7 +23,7 @@ Prezentowane zadania są przygotowane na podstawie rozdziału ["Sessions and Aut
 
 &nbsp;
 
-:arrow_left: [*poprzedni zestaw zadań (**PHP: Dynamic Web Application (12-20)**)*](https://github.com/devmentor-pl/practice-php-dynamic-web-application)
+:arrow_left: [*poprzedni zestaw zadań (**PHP: Sessions and Authentication (37-41)**)*](https://github.com/devmentor-pl/practice-php-sessions-and-authentication)
 
 ## Jak prawidłowo wykonać zadania?
 
